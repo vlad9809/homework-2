@@ -4,7 +4,7 @@
  then
 	 
         echo "file test found"
- rm -- -test
+ rm -- test
  echo "test files deleted"
 else
 	echo "file test not found"
